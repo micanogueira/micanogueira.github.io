@@ -1,0 +1,3 @@
+[submodule "themes/timeline"]
+	path = themes/timeline
+	url = git@github.com:micanogueira/hugo-theme-timeline.git
