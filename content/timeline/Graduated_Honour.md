@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2011-07-07
 title: Graduated with Honour
-eventname: Technologist, Financial Management 
-eventlocation: Brazil
+eventName: Technologist, Financial Management 
+eventLocation: Brazil
 ---
 
 ## 

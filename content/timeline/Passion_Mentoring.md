@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2017-08-01
 title: Found out her passion for mentoring
-eventname: Startup Mentor
-eventlocation: Brazil
+eventName: Startup Mentor
+eventLocation: Brazil
 footer: "Duration: 9 months"
 ---
 

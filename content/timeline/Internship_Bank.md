@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2007-02-01
 title: Started an internship at a Federal Bank
-eventname: Financial Services Intern 
-eventlocation: Brazil
+eventName: Financial Services Intern 
+eventLocation: Brazil
 ---
 
 ## Inspiration moves us brightly!

@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2010-04-15
 title: Became coordinator of a University Extension Program
-eventname: Volunteer Coordinator
-eventlocation: Brazil
+eventName: Volunteer Coordinator
+eventLocation: Brazil
 ---
 
 ## abc

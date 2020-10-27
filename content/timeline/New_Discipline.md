@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2010-03-15
 title: Started teaching a new discipline
-eventname: Teaching Assistant 
-eventlocation: Brazil
+eventName: Teaching Assistant 
+eventLocation: Brazil
 ---
 
 ## New semester, more knowledge to share

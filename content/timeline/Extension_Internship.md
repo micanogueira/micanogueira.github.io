@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2010-09-01
 title: Invited to be part of the University Extension Program team
-eventname: Financial Intern 
-eventlocation: Brazil
+eventName: Financial Intern 
+eventLocation: Brazil
 ---
 
 ## 

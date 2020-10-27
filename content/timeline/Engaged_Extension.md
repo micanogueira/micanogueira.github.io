@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2009-09-15
 title: Engaged in University Extension Programs
-eventname: Volunteer
-eventlocation: Brazil
+eventName: Volunteer
+eventLocation: Brazil
 ---
 
 ## abc

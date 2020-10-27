@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2006-01-01
 title: Got her first job
-eventname: Office Assistant 
-eventlocation: Brazil
+eventName: Office Assistant 
+eventLocation: Brazil
 ---
 
 ## It started before it even started

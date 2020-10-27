@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2019-07-01
 title: Started to mentor startups and small businesses
-eventname: Volunteer Startup Mentor
-eventlocation: Germany (online)
+eventName: Volunteer Startup Mentor
+eventLocation: Germany (online)
 footer: A very long footer goes here
 ---
 

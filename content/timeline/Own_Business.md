@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2012-05-01
 title: Founded her own business
-eventname: Co-Founder
-eventlocation: Brazil
+eventName: Co-Founder
+eventLocation: Brazil
 ---
 
 ## *Quatrenhum Events*

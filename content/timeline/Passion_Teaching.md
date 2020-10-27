@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2009-10-15
 title: Found out her passion for teaching
-eventname: Teaching Assistant 
-eventlocation: Brazil
+eventName: Teaching Assistant 
+eventLocation: Brazil
 ---
 
 ## abc

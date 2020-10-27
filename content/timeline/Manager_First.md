@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2012-07-01
 title: Got her first job as a Manager
-eventname: Financial and Administrative Manager 
-eventlocation: Brazil
+eventName: Financial and Administrative Manager 
+eventLocation: Brazil
 ---
 
 ## 
