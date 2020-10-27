@@ -3,6 +3,7 @@ author:
   name: "Micaelle Nogueira"
 date: 2014-01-02
 title: Started working at Sympla
+subtitle: Jan 2014 - Dec 2017 • 4 yrs
 eventname: Head of Finance
 eventlocation: Brazil
 ---
