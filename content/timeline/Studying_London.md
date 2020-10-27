@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2019-10-07
-type:
-- post
-- posts
 title: Spent two months abroad studying English
 eventname: English Exchange
 eventlocation: London
-weight: 10
 ---
 
 ## 

@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2009-11-01
-type:
-- post
-- posts
 title: Started an accounting internship
 eventname: Accounting Intern 
 eventlocation: Brazil
-weight: 10
 ---
 
 ## Exploring the accounting field

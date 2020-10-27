@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2010-03-16
-type:
-- post
-- posts
 title: Started a financial internship
 eventname: Financial Intern 
 eventlocation: Brazil
-weight: 10
 ---
 
 ## From the classes to the office: pratical application

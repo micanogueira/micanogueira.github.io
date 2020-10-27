@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2019-07-01
-type:
-- post
-- posts
 title: Started to mentor startups and small businesses
 eventname: Volunteer Startup Mentor
 eventlocation: Germany (online)
-weight: 10
 ---
 
 ## Independent Mentor

@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2011-02-01
-type:
-- post
-- posts
 title: Started working at Tutta
 eventname: Accounting Administrative Assistant
 eventlocation: Brazil
-weight: 10
 ---
 
 ## 

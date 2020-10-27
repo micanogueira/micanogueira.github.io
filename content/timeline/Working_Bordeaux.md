@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2011-10-01
-type:
-- post
-- posts
 title: Started working at Bordeaux
 eventname: Financial Assistant
 eventlocation: Brazil
-weight: 10
 ---
 
 ## 

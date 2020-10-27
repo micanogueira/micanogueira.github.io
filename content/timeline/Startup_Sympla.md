@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2014-01-02
-type:
-- post
-- posts
 title: Started working at Sympla
 eventname: Head of Finance
 eventlocation: Brazil
-weight: 10
 ---
 
 ## From the gound up

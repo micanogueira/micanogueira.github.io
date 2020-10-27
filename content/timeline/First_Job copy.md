@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2009-02-01
-type:
-- post
-- posts
 title: Back to AVRO
 eventname: Administrative Assistant 
 eventlocation: Brazil
-weight: 10
 ---
 
 ## "The good son always returns home"

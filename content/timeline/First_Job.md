@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2006-01-01
-type:
-- post
-- posts
 title: Got her first job
 eventname: Office Assistant 
 eventlocation: Brazil
-weight: 10
 ---
 
 ## It started before it even started

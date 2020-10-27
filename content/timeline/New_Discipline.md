@@ -2,13 +2,9 @@
 author:
   name: "Micaelle Nogueira"
 date: 2010-03-15
-type:
-- post
-- posts
 title: Started teaching a new discipline
 eventname: Teaching Assistant 
 eventlocation: Brazil
-weight: 10
 ---
 
 ## New semester, more knowledge to share
