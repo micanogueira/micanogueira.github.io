@@ -1,7 +1,7 @@
 ---
 author:
   name: "Micaelle Nogueira"
-date: 2012-12-01
+date: 2012-07-01
 type:
 - post
 - posts
@@ -11,7 +11,7 @@ eventlocation: Brazil
 weight: 10
 ---
 
-## Abstract
+## 
 
 What was supposed to be only an audit led me to my first job as a financial manager. I was approached by one of the partners to do an independent audit of the company, including assets and debts since its inception. Within a month, the CEO asked for a blueprint of what would be an ideal finance department.
 

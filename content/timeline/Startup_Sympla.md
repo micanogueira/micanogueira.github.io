@@ -13,7 +13,7 @@ weight: 10
 
 ## From the gound up
 
-This experience gave me an incredible opportunity to make a difference! I was the Financial Manager and Team Leader of a successful startup, [Sympla](https://www.sympa.com.br), an online platform for sale and management of tickets and registration for events. I worked there for four years, since the embryonic stage.
+This experience gave me an incredible opportunity to make a difference! I was the Financial Manager and Team Leader of a successful startup, [Sympla](https://www.sympla.com.br), an online platform for sale and management of tickets and registration for events. I worked there for four years, since the embryonic stage.
 
 The first time I met Rodrigo Cartacho, the CEO, was special. It was on this memorable occasion that I, full of enthusiasm, decided to dive right in the challenge of starting four departments from scratch. Rodrigo conducted one of the stages of the interview process, which took place on the balcony because, at that time, there was no meeting room. This small and simple detail became a milestone, as it represents how long the travelled road was, when the starting point for me was a room with a meeting room under construction and four newly hired employees – the very frist ones – and the destination was almost the entire building occupied and more than 200 employees working on. More than that, we have transformed a start-up into the company with the largest number of events for sale in Brazil. It meant a lot of work and concerted effort by the entire team, and pride and joy, consequently.
 
