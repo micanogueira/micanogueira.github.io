@@ -2,7 +2,7 @@
 author:
   name: "Micaelle Nogueira"
 date: 2006-01-01
-title: Got her first job
+title: Got the first job
 subtitle: Jan 2006 - Jan 2007 • 1 yr 1 mo
 eventName: Office Assistant 
 eventLocation: Brazil

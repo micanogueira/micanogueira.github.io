@@ -3,7 +3,7 @@ author:
   name: "Micaelle Nogueira"
 date: 2007-02-01
 title: Won a scholarship
-subtitle: Fev 2007 - Nov 2008 • 2 yrs
+subtitle: Feb 2007 - Nov 2008 • 2 yrs
 eventName: High School Student 
 eventLocation: Brazil
 footer: "Duration: 2 yrs"

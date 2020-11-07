@@ -3,7 +3,7 @@ author:
   name: "Micaelle Nogueira"
 date: 2009-02-01
 title: Won a scholarship to College
-subtitle: Fev 2009 - Jul 2011 • 2 yrs 6 mos
+subtitle: Feb 2009 - Jul 2011 • 2 yrs 6 mos
 eventName: College Student 
 eventLocation: Brazil
 footer: "Duration: 2 yrs 6 mos"

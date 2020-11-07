@@ -3,11 +3,18 @@ author:
   name: "Micaelle Nogueira"
 date: 2009-09-15
 title: Engaged in University Extension Programs
+subtitle: Sep 2009 - Dec 2009 • 4 mos
 eventName: Volunteer
 eventLocation: Brazil
+footer: "Duration: 4 mos"
 ---
 
-## abc
+## Roots
 
-Voluntária do Projeto de Extensão Censo & Cidadania – PUC Minas
-Período: 15/09/2009 a 18/12/2009
+Throughout my school life, I have been engaged in extra activities such as choir, student council, newspaper, theatre, and dancing. I used to extend my hours at school, supporting teachers and diverse staff members. I have often been a class representative. Sometimes, a commencement speaker.
+
+When I entered college, it was no different. In the first year, I already found myself involved in an extra activity: extension programs. I volunteered to support the "Census and Citizenship" project, which aimed to diagnose the community's socio-economic situation in order to highlight and prioritize needs.
+
+## The extension program
+
+A multidisciplinary team composed of three different courses was organized to work together to achieve the objective. We interviewed people who lived in a building complex near the campus. We collected information about basic needs, such as eating habits, health, education, social, and leisure. Apart from the teamwork, I was also responsible for data tabulation. At the end of our work, we were able to make a diagnosis, identify the community's demand and propose actions through new extension programs.
