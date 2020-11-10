@@ -17,7 +17,19 @@ A professor specialized in finance became my supervisor to guide me in my main t
 
 ## University Incubator Project
 
-I worked with an association of women without income who were learning to be owners of their own business through the solidarity economy methodology. It was a cooperative venture recognized as a pilot project of economic-financial viability for solidarity enterprises, supported by the Government, mayor’s office, and the University. I acted as a facilitating agent between the women and some institutions when dealing with bureaucracy. On the other hand, I could use my knowledge in finance to support them in the management of the business, advising them and giving a full consultancy. The process of foster financial education was so successful that I travelled to the countryside to give talks to local producers and small cooperatives.
+The University Incubator Project was a cooperative venture for processing natural food into dehydrated food. In 2005, an agreement was signed with the Government, mayor’s office and the University for the development of this pilot project of Solidarity Economy. I joined the team in 2009, when the physical facilities were completed, to meet the lack of operational procedures and promote governance practices.
+
+I worked with a group of housewives, unemployed women and beneficiaries of a Federal Government Program. They formed this cooperative venture as associates. As the main objective of the project is administrative emancipation, they were learning to be owners of their own business through the solidarity economy methodology. I acted as a facilitating agent between these associates and some institutions when dealing with bureaucracy. Moreover, I applied my knowledge in finance to support them in managing the business, advising and giving a full consultancy.
+
+## Solidarity Economy
+
+The crisis of capitalism and its inherent worsening of poverty has led to the emergence of different modes of production. One is the solidarity economy that emerged to serve the population excluded from the formal labour market. Thus, people from a local community as artisans, for example, come together and work collectively and associative, using solidary principles, in which one collaborates with the other. Equitable income distribution eliminates labour exploitation. Relations with other partners are also based on a solidary economy, which makes trade fair.
+
+## Highlights
+
+- The work of fostering financial education in the incubator was so successful that I travelled to the countryside as a representative of the Dean of Extension to give talks to local producers and small cooperatives. These talks were open to discussion in order to address the participant's issues and develop consultancy for building a solidarity venture.
+- I researched the solidarity economy during the period in which I worked in the incubator and continued researching after the internship ended. I used this experience to write my thesis, which aimed to show that a solidarity enterprise can be economically and financially viable.
+- Working in the extension programs department led me to be even more active as a volunteer, especially in social projects. The one that I dedicated the most was the [Rondon Project](http://www.projetorondon.org.br/), the largest university volunteer initiative in Brazil.
 
 <br/>
 <br/>
