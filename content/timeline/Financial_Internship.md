@@ -16,4 +16,4 @@ Since I became the teaching assistant of the Financial Mathematics discipline of
 <br/>
 <br/>
 
-<small><sup>1</sup> GSM Engenharia is a company specialized in developing projects and budgets for civil construction.</small>
+<small><sup>1</sup> GSM Engenharia is a Brazilian company specialized in developing projects and budgets for civil construction.</small>
