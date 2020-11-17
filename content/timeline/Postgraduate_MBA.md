@@ -2,12 +2,24 @@
 author:
   name: "Micaelle Nogueira"
 date: 2014-09-01
-title: Started an MBA in Finance
+title: Got an MBA in Finance
+subtitle: Sep 2014 - Jun 2016 • 1 yr 10 mos
 eventName: Master of Business Administration
 eventLocation: Brazil
+footer: "Duration: 1 yr 10 mos"
 ---
 
-## 
+## The opportune time
 
-BRAZILIAN INSTITUTE OF CAPITAL MARKETS (IBMEC)
-Simultaneously, I found another project to start, which was the MBA in Finance. Even amid a swirl of things to manage, it was an appropriate personal decision. As I strongly believed in the rapid growth of the company, I also believed that I should be prepared to manage this.
+I had been pursuing an MBA since I was about to finish college. However, it only became possible three years later, which I can say was even better due to the professional and personal maturity that I have acquired so far.
+
+Even amid a swirl of things to manage in my current job, getting an MBA in Finance represented an appropriate personal decision. The skills that I learned and improved perfectly fit the needs I had to fulfil in the scenario in which the company I worked for was, especially during its M&A (mergers and acquisitions) processes, which was something that I was leading and doing for the very first time.
+
+## The youngest student
+
+I started an MBA in Finance at IBMEC (Brazilian Institute of Capital Markets)<sup>1</sup>, a reference school in finance and business in my city. After passing the selection process, I became the youngest student in my class. According to the school coordinator, my professional experience was adequate and would be an enriching exchange of knowledge in class.
+
+<br/>
+<br/>
+
+<small><sup>1</sup> [Instituto Brasileiro de Mercado de Capitais](https://www.ibmec.br/english) (IBMEC) is a private Brazilian research university founded in 1970. It is one of the most prestigious business and economics schools in Latin America.</small>
