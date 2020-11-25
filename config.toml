@@ -141,6 +141,11 @@ disableHugoGeneratorInject = false
     url        = "timeline/"
     weight     = 1
   [[menu.main]]
+    identifier = "accomplishments"
+    name       = "Accomplishments"
+    url        = "accomplishments/"
+    weight     = 1
+  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
