@@ -143,7 +143,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "accomplishments"
     name       = "Accomplishments"
-    url        = "accomplishments/"
+    url        = "accomplishments/professional/"
     weight     = 1
   [[menu.main]]
     identifier = "about"
