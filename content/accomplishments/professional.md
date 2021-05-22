@@ -3,7 +3,6 @@ title: "Professional"
 subtitle: "Professional Accomplishments"
 linkName: "See Professional Accomplishments"
 date: 2020-10-22T15:21:48+02:00
-draft: true
 ---
 
 <a class="link-to-timeline" title="See this event in the timeline" href="/timeline/startup_sympla/">🔗 <span>12/2017 ➛ 01/2014</span></a>

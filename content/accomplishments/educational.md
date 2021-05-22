@@ -2,7 +2,6 @@
 title: "Educational"
 subtitle: "Educational Accomplishments"
 date: 2020-10-21T15:21:48+02:00
-draft: true
 ---
 
 12/2017 ➛ 01/2014
