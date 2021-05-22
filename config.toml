@@ -10,7 +10,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a MIT License." 
+copyright = "This work is licensed under a MIT License."
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -150,7 +150,7 @@ disableHugoGeneratorInject = false
     name       = "About"
     url        = "about/"
     weight     = 1
- 
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"
