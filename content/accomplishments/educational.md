@@ -14,7 +14,7 @@ date: 2020-10-21T15:21:48+02:00
 <a class="link-to-timeline" title="See this event in the timeline" href="/timeline/won_scholarship2/">🔗 <span>Fev 2009 ➛ Jul 2011</span></a>
 :   **Technologist, Financial Management at PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS ([PUC Minas])**
 
-    Won a full government scholarship through the University for all Program ([ProUni]), after passing the National High School Exam ([ENEM]).
+    <i class="fas fa-medal"></i> Won a full government scholarship through the University for all Program ([ProUni]), after passing the National High School Exam ([ENEM]).
 
     Accepted two consecutive semesters to be a teaching assistant in the Financial Management course, teaching the subjects of Introduction to Accounting and Financial Mathematics, respectively.
 
