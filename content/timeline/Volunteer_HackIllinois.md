@@ -11,11 +11,11 @@ footer: "Duration: 36 hrs"
 
 ## HackIllinois
 
-Every year, since 2014, on the last weekend of February, there is a 36-hour university hackathon run by students, the HackIllinois<sup>1</sup>. It brings in approximately 1,000 students from across the United States. An event like this requires a lot of teamwork. In the 2020 edition, I joined the team of volunteers, willing to help out the staff at any level.
+Every year, since 2014, on the last weekend of February, there is a 36-hour university hackathon run by students, the HackIllinois<sup>1</sup>. It is the largest open-source hackathon in the world and brings in approximately 1,000 students from across the United States. An event like this requires a lot of teamwork. In the 2020 edition, I joined the team of volunteers, willing to help out the staff at any level.
 
 ## The opportunity
 
-This opportunity came across because my husband is one of the mentors. He has been mentoring HackIllinois for three consecutive years. For his third time, we have travelled together and contributed in different ways to this amazing event.
+This opportunity came across because my husband is one of the mentors. He has been mentoring HackIllinois for four consecutive years. For his third time, we travelled together and contributed in different ways to this amazing event.
 
 <br/>
 <br/>

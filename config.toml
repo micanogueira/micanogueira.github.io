@@ -56,11 +56,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Timeline hugo template for your work experience, researches, achievement and more"
-  keywords = "timeline hugo template"
+  description = "Timeline template for your work experience, researches, achievement and more"
+  keywords = "Portfolio"
   images = [""]
 
-  homeSubtitle = "timeline template for hugo"
+  homeSubtitle = "timeline template"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -141,9 +141,9 @@ disableHugoGeneratorInject = false
     url        = "timeline/"
     weight     = 1
   [[menu.main]]
-    identifier = "accomplishments"
-    name       = "Accomplishments"
-    url        = "accomplishments/professional/"
+    identifier = "highlights"
+    name       = "Highlights"
+    url        = "highlights/professional/"
     weight     = 1
   [[menu.main]]
     identifier = "about"
