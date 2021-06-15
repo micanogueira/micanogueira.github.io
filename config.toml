@@ -136,20 +136,25 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "timeline"
-    name       = "Timeline"
-    url        = "timeline/"
-    weight     = 1
-  [[menu.main]]
-    identifier = "highlights"
-    name       = "Highlights"
-    url        = "highlights/professional/"
-    weight     = 1
-  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
     weight     = 1
+  [[menu.main]]
+    identifier = "timeline"
+    name       = "Timeline"
+    url        = "timeline/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "highlights"
+    name       = "Highlights"
+    url        = "highlights/professional/"
+    weight     = 3
+  [[menu.main]]
+    identifier = "documents"
+    name       = "Documents"
+    url        = "documents/"
+    weight     = 4
 
 
 [markup]
