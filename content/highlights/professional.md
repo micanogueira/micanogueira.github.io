@@ -47,17 +47,17 @@ date: 2020-10-22T15:21:48+02:00
 
     > Had a myriad of interesting experiences and challenging projects
 
-    <i class="far fa-flag"></i> [Started working] at the age of 15, where I became a [contributing editor] to AVRO dx – an online [English-Portuguese-English Dictionary] –, having its database 100% formatted.
+    {{< svg flag >}} [Started working] at the age of 15, where I became a [contributing editor] to AVRO dx – an online [English-Portuguese-English Dictionary] –, having its database 100% formatted.
 
-    <i class="fas fa-university"></i> [Worked at a Federal Bank] for 2 years as an intern and became one of the references for training and onboarding, leading new employees during their first weeks of working directly with customers.
+    {{< fa solid university >}} [Worked at a Federal Bank] for 2 years as an intern and became one of the references for training and onboarding, leading new employees during their first weeks of working directly with customers.
 
-    <i class="fas fa-user-plus"></i> [Invited to work again] at the company where I got my first job, but with a different approach: testing the dictionary platform as an end-user, reporting issues and requesting features.
+    {{< fa solid user-plus >}} [Invited to work again] at the company where I got my first job, but with a different approach: testing the dictionary platform as an end-user, reporting issues and requesting features.
 
-    <i class="far fa-calendar-check"></i> Completed the internship season while studying at the University: [exploring the accounting field], [operating the entire financial routine] of a company, and even being [hired by the University itself].
+    {{< fa regular calendar-check >}} Completed the internship season while studying at the University: [exploring the accounting field], [operating the entire financial routine] of a company, and even being [hired by the University itself].
 
-    <i class="fas fa-industry"></i> Worked in all subdivisions of a financial department in different companies, such as in the [fashion industry] and in a [car dealership].
+    {{< fa solid industry >}} Worked in all subdivisions of a financial department in different companies, such as in the [fashion industry] and in a [car dealership].
 
-    <i class="far fa-address-card"></i> Became a member of the Regional Business Administration Council and acted as [an independent consultant], conducting audits, providing financial advice and reports, and improving financial management in general.
+    {{< fa regular address-card >}} Became a member of the Regional Business Administration Council and acted as [an independent consultant], conducting audits, providing financial advice and reports, and improving financial management in general.
 
 [Started working]:                            /timeline/first_job/ "See this event in the timeline"
 [contributing editor]:                        http://editor.avrodx.com.br/about/credits

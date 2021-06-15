@@ -1,0 +1,6 @@
+{{ $prefix := index .Params 0 }}
+{{ $svg := index .Params 1 }}
+{{ $class := print $svg }}
+{{ $match := "<svg([^>]*)?>(.*)</svg>" }}
+{{ $replaceWith := printf `<svg class="font-awesome-icon %s-icon" ${1} style="height: 16px; width: 16px;">${2}</svg>` $class }}
+{{ replaceRE $match $replaceWith (printf "/bower_components/assets/fontawesome/svgs/%s/%s.svg" $prefix $svg | readFile) | safeHTML }}

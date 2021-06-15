@@ -9,3 +9,11 @@
 .logo {
     white-space: nowrap;
 }
+
+body.dark-theme {
+    fill: #a9a9b3;
+}
+
+.material-design-icon, .font-awesome-icon, .svg-icon {
+    vertical-align: sub;
+}

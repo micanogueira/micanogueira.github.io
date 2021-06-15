@@ -1,3 +1,9 @@
 [submodule "themes/timeline"]
 	path = themes/timeline
 	url = git@github.com:micanogueira/hugo-theme-timeline.git
+[submodule "assets/materialdesignicons"]
+	path = bower_components/assets/materialdesignicons
+	url = git@github.com:Templarian/MaterialDesign.git
+[submodule "assets/fontawesome"]
+	path = bower_components/assets/fontawesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
