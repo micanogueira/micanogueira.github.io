@@ -18,6 +18,11 @@ body.dark-theme {
     vertical-align: sub;
 }
 
+blockquote {
+    margin: 20px 0;
+    border-left-color: #999;
+}
+
 .eduperiod {
     opacity: 0.6;
     margin-top: -10px;

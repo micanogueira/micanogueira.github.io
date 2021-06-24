@@ -8,39 +8,39 @@ date: 2020-10-22T15:21:48+02:00
 ## At a glance: achievements and highlights throughout my professional journey
 
  
-:   ### Head of Finance at Sympla -<small>*4 yrs*</small>
+:   ### Head of Finance at Sympla&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*4 yrs*</span>
 
-    > Had an incredible opportunity to build a startup [from the ground up]
+    > [Had an incredible opportunity to build a startup from the ground up {{< fa regular hand-pointer >}}][from the ground up]
     
     - Joined the co-founders in their promising venture and supported them in building a company 50 times bigger than when we started, with 5 more offices in 5 different cities and nationally recognized as the market leader.
     - Created 4 departments from scratch – finance, administrative, human resources and personnel –, leading and operating them together for over a year.
     - Led a team of 6 people, all hired to assume positions that I created.
-    - Led a 12-person multidisciplinary team that work together to succeed in the [SAP] implementation, oriented to integrate operations and consolidate the monthly close on schedule, which reduced the closing time by 50%.
+    - Led a 12-person multidisciplinary team that work together to succeed in the SAP implementation, oriented to integrate operations and consolidate the monthly close on schedule, which reduced the closing time by 50%.
     - Recognized for responding 2 due diligence successfully with high quality of financial information and control, which resulted in 2 major investments made by a global leader in mobile marketplaces.
 
 [from the ground up]:      /timeline/startup_sympla/ "See this event in the timeline"
 
  
-:   ### [Co-Founder at Quatrenhum Eventos] - 4 yrs 1 mo
+:   ### Co-Founder at Quatrenhum Eventos&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*4 yrs 1 mo*</span>
 
-    > Created my own business
+    > [Created my own business {{< fa regular hand-pointer >}}][own business]
 
     - Identified a pain point in the market and solved it by creating a scalable business.
     - Built and validated the business model with the break-even point reached in the 1° year and an average profit margin of 45%.
     - Ran a bootstrapping business with a competitive edge recognized by the market, around 85% of the customers reached us through referrals.
 
-[Co-Founder at Quatrenhum Eventos]:      /timeline/own_business/ "See this event in the timeline"
+[own business]:      /timeline/own_business/ "See this event in the timeline"
 
  
-:   ### [Financial and Administrative Manager at Vinte1] - 1 yr 7 mos
+:   ### Financial and Administrative Manager at Vinte1&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*1 yr 7 mos*</span>
 
-    > Got my first job as a Manager
+    > [Got my first job as a Manager {{< fa regular hand-pointer >}}][job as a Manager]
 
     - Started by doing an independent audit of the last 5 years and ended up hired as a manager, being responsible for general management and leading a multidisciplinary team of 8 people.
     - Created the finance and human resources departments from scratch.
     - Designed and implemented the operating flow of the new revenue stream, which became the main one, representing about 80% of all revenue in less than a year.
 
-[Financial and Administrative Manager at Vinte1]:      /timeline/manager_first/ "See this event in the timeline"
+[job as a Manager]:      /timeline/manager_first/ "See this event in the timeline"
 
  
 :   ### Past 7 years of professional experience
