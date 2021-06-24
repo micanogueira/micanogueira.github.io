@@ -27,13 +27,13 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid users >}} Invited to be the [coordinator of a new extension program] - “Student - University - Society Integration Program” - due to the outstanding dedication in the previous program.
 
-    Presented the project and its current results at the Extension Workshop at the University.
+    <div class="eduitem">{{< mdi subdirectory-arrow-right >}} Presented the project and its current results at the Extension Workshop at the University.</div>
 
     {{< fa solid sitemap >}} Invited to be part of the University Extension Program team, working as an [intern at PROEX], the Dean of Extension.
 
-    Was on the local news and in the newspaper to talk about the development and results of the University Incubator Project, a pilot project based on Solidarity Economy.
+    <div class="eduitem">{{< mdi subdirectory-arrow-right >}} Was on the local news and in the newspaper to talk about the development and results of the University Incubator Project, a pilot project based on Solidarity Economy.</div>
 
-    Gave lectures as a representative of the Dean of Extension for local producers and small cooperatives in different cities in the countryside.
+    <div class="eduitem">{{< mdi subdirectory-arrow-right >}} Gave lectures as a representative of the Dean of Extension for local producers and small cooperatives in different cities in the countryside.</div>
 
     {{< fa solid trophy >}} [Graduated with an academic highlight]: University Medal for achieving the highest overall grades and a certificate of merit for the achievement.
 
