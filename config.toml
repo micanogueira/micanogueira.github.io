@@ -104,24 +104,32 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/Micanogueira"
+    name = "email"
+    url  = "mailto:micaelle.nogueira@hotmail.com"
 
   [[params.social]]
     name = "instagram"
-    url  = "#"
+    url  = "https://www.instagram.com/micaellenogueira"
 
   [[params.social]]
-    name = "facebook"
-    url  = "#"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "#"
+    name = "goodreads"
+    url  = "https://www.goodreads.com/micaelle"
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/micanogueira"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/in/micaelle"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/Micanogueira"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/micaelle.nogueira"
 
 [languages]
   [languages.en]
