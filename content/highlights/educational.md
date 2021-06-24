@@ -8,7 +8,7 @@ date: 2020-10-21T15:21:48+02:00
  
 :   ### MBA in Finance at IBMEC
 
-    2014 ➛ 2016
+    <span class="eduperiod">2014 ➛ 2016</span>
 
     {{< fa solid user-graduate >}} [Accepted to enrol in the program] as the youngest student in the class due to professional background equivalent to that of others with longer experience.
 
@@ -17,7 +17,7 @@ date: 2020-10-21T15:21:48+02:00
  
 :   ### Technologist, Financial Management at PUC Minas
 
-    2009 ➛ 2011
+    <span class="eduperiod">2009 ➛ 2011</span>
 
     {{< fa solid award >}} [Won a full government scholarship] through the University for all Program ([ProUni]), after passing the National High School Exam ([ENEM]).
 
@@ -50,7 +50,7 @@ date: 2020-10-21T15:21:48+02:00
  
 :   ### High School Student at Colégio Santo Antônio
 
-    2007 ➛ 2008
+    <span class="eduperiod">2007 ➛ 2008</span>
 
     {{< fa solid award >}} [Won a full private scholarship] after passing an entrance exam, being among the 12 who passed, out of more than five hundred candidates.
 
@@ -65,7 +65,7 @@ date: 2020-10-21T15:21:48+02:00
  
 :   ### Previous years at school
 
-    1997 ➛ 2006
+    <span class="eduperiod">1997 ➛ 2006</span>
 
     {{< fa solid book-reader >}} Entered elementary school as one of the few students who already knew how to read and write, helping peers in their learning process.
 

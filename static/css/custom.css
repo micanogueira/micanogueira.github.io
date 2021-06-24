@@ -17,3 +17,9 @@ body.dark-theme {
 .material-design-icon, .font-awesome-icon, .svg-icon {
     vertical-align: sub;
 }
+
+.eduperiod {
+    opacity: 0.6;
+    margin-top: -10px;
+    display: block;
+}
