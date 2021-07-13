@@ -9,7 +9,7 @@ eventLocation: Germany
 
 ## A latent aptitude
 
-When I was between 13 and14 years old, I really wanted to study computer science. Throughout my career, I have worked several times alongside the IT team, and the most I did was to design mock-ups of tools and features. I can say that I have always been close enough to learn to code. In fact, I always wanted to know how to code to be independent, to build my own tools and features, to meet my needs more quickly and autonomously.
+When I was between 13 and 14 years old, I really wanted to study computer science. Throughout my career, I have worked several times alongside the IT team, and the most I did was to design mock-ups of tools and features. I can say that I have always been close enough to learn to code. In fact, I always wanted to know how to code to be independent, to build my own tools and features, to meet my needs more quickly and autonomously.
 
 ## The unsuccessful attempt
 
@@ -19,7 +19,7 @@ In mid-2015, I was very committed to learning a certain programming language, R<
 
 As an alternative to these pandemic times - when I realized that all my plans were frozen - I decided to make this happen: learn a programming language. This time, I chose to learn Python<sup>2</sup> which has an easy-to-understand syntax. In addition to the potential to be a tool in my work of analyzing financial data, forecasting, and creating growth strategies, learning Python also serves a general purpose that would broaden my field of knowledge.
 
-I completed an online course at the University of Michigan and since then have been studying on my own, relying on different resources, such as books and Python documentation, solving coding challenges, and being mentored by my husband, who is a Pythonist with over 20 years of experience.
+I completed an online course at the University of Michigan and since then have been studying on my own, relying on different resources, such as books and the Python documentation, solving coding challenges, and being mentored by my husband, who is a Pythonista with over 20 years of experience.
 
 <br/>
 <br/>
