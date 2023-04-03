@@ -13,9 +13,9 @@ I love that feeling of starting something new at the beginning of the year. I wa
 
 ## Oops, it's 2020
 
-Unfortunately, these pandemic times have kept me away from classes. I have considered going back to school many times, but it's not the safest method anymore, although it's the most efficient in my point of view.
+Unfortunately, these pandemic times kept me away from classes. I considered going back to school many times, but it was not the safest method at the time, although it is the most efficient in my point of view.
 
-Since May, I have been studying German online at the Goethe<sup>2</sup> website.
+The alternative was to start an online German course at Goethe<sup>2</sup>.
 
 <br/>
 <br/>
