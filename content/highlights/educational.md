@@ -6,6 +6,7 @@ date: 2020-10-21T15:21:48+02:00
 
 ## At a glance: achievements and highlights throughout my educational journey
 
+ 
 :   ### Bachelor in Management & Technology at TUM
 
     <span class="eduperiod">2021 ➛ Present</span>
@@ -16,6 +17,7 @@ date: 2020-10-21T15:21:48+02:00
 
 [Admitted to the Technical University of Munich]:         /timeline/second_degree_TUM/ "See this event in the timeline"
 [second]:         /timeline/won_scholarship2/ "See the first one in the timeline"
+
  
 :   ### MBA in Finance at IBMEC
 
