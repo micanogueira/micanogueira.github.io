@@ -7,7 +7,7 @@ date: 2020-10-21T15:21:48+02:00
 ## At a glance: achievements and highlights throughout my educational journey
 
  
-:   ### Bachelor in Management & Technology at TUM
+:   ### B.Sc in Management and Technology at TUM
 
     <span class="eduperiod">2021 ➛ Present</span>
 

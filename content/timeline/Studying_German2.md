@@ -21,4 +21,4 @@ The lessons ran effectively until the end of September, when I reached the B1 le
 <br/>
 
 <small><sup>1</sup> [Edeltraud](https://www.edeltraud-muc.de/en/) is a German school located in Munich.</small><br/>
-<small><sup>2</sup> [Goethe-Institut](https://www.goethe.de/en/index.html) is the cultural institute of the Federal Republic of Germany that operates worldwide. It promotes the study of the German language abroad and encourages international cultural exchange and relations.
+<small><sup>2</sup> [Goethe-Institut](https://www.goethe.de/en/index.html) is the cultural institute of the Federal Republic of Germany that operates worldwide. It promotes the study of the German language abroad and encourages international cultural exchange and relations.</small>
