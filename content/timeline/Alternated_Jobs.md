@@ -18,4 +18,4 @@ Alternately, I was working as an independent consultant, including advising frie
 <br/>
 <br/>
 
-<small><sup>1</sup> [Bordeaux Veículos](https://www.bordeaux-bh.com.br/) is a Peugeot dealership based in Belo Horizonte, Brazil. It sells new and used vehicles, as well as offering a variety of mechanical services.</small>
+<small><sup>1</sup> [Bordeaux Veículos](http://bordeaux-bh.com.br) is a Peugeot dealership based in Belo Horizonte, Brazil. It sells new and used vehicles, as well as offering a variety of mechanical services.</small>

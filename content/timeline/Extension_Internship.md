@@ -29,7 +29,7 @@ The crisis of capitalism and its inherent worsening of poverty has led to the em
 
 - The work of fostering financial education in the incubator was so successful that I travelled to the countryside as a representative of the Dean of Extension to give talks to local producers and small cooperatives. These talks were open to discussion in order to address the participants' issues and develop consultancy for building a solidarity venture.
 - I researched the solidarity economy during the period in which I worked in the incubator and continued researching after the internship ended. I used this experience to write my thesis, which aimed to show that a solidarity enterprise can be economically and financially viable.
-- Working in the extension programs department led me to be even more active as a volunteer, especially in social projects. The one that I dedicated the most was the [Rondon Project](http://www.projetorondon.org.br/), the largest university volunteer initiative in Brazil.
+- Working in the extension programs department led me to be even more active as a volunteer, especially in social projects. The one that I dedicated the most was the [Rondon Project](https://www.gov.br/defesa/pt-br/assuntos/projeto-rondon), the largest university volunteer initiative in Brazil.
 
 <br/>
 <br/>

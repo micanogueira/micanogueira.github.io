@@ -22,6 +22,6 @@ During one year I learned more than informatics, I also learned how a company ru
 <br/>
 <br/>
 
-<small><sup>1</sup> [AVRO](http://www.avro.com.br/) is an Brazilian-based translation company.</small>  
+<small><sup>1</sup> AVRO is an Brazilian-based translation company.</small>  
 <small>*To know more about AVROdx click on this link: www.avro.com.br/#avrodx*</small><br/>
 <small>*And click [here](http://editor.avrodx.com.br/about/credits) to check the credits attributed to me as a contributing editor*</small>

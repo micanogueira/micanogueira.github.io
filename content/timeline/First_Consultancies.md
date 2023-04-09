@@ -20,4 +20,4 @@ In late 2011, another project emerged, in which the consultancy was focused on i
 <br/>
 <br/>
 
-<small><sup>1</sup> [Conselho Regional de Administração de Minas](www.cramg.org.br) (CRA-MG) is a normative, consultative, advisory and disciplinary Brazilian entity for the exercise of the profession, based in each region of the country, responsible for controlling and inspecting financial and administrative activities.</small>
+<small><sup>1</sup> [Conselho Regional de Administração de Minas](cramg.org.br) (CRA-MG) is a normative, consultative, advisory and disciplinary Brazilian entity for the exercise of the profession, based in each region of the country, responsible for controlling and inspecting financial and administrative activities.</small>

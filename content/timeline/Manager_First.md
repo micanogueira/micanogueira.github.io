@@ -24,4 +24,4 @@ Besides the restructuring project, I designed and implemented the operating flow
 <br/>
 <br/>
 
-<small><sup>1</sup> [Vinte1](http://vinte1.com.br/site/?page_id=24) is a Brazilian company that offers services of project management, planning and event production.</small>
+<small><sup>1</sup> [Vinte1](https://www.facebook.com/profile.php?id=100072242684815) is a Brazilian company that offers services of project management, planning and event production.</small>
