@@ -18,6 +18,9 @@ The next edition of the program took place in the same year and gained a differe
 At that time, other acceleration programs invited me to give talks at events that they organized to promote innovation and entrepreneurship.
 
 <br/>
+
+{{< image-gallery gallery_dir="pictures/lemonade" >}}
+
 <br/>
 
 <small><sup>1</sup> [Programa Lemonade](http://programalemonade.com.br/) is an eight-week startup acceleration program in which selected teams receive entrepreneurial training with free content, lectures, mentoring, workshops and evaluation boards.</small>

@@ -22,6 +22,9 @@ I went to London to study at an English School<sup>1</sup>. I took a preparation
 Going to London was a milestone in my learning process. I improved in two months what I couldn't do before. More than advancing to level C1 on the school exit test and achieving the minimum IELTS required for a master's degree in Europe, I gained the confidence I was looking for and returned to Munich ready to learn the next language: German.
 
 <br/>
+
+{{< image-gallery gallery_dir="pictures/london" >}}
+
 <br/>
 
 <small><sup>1</sup> [EC English](http://www.ecenglish.com/) is a language centre with 25 schools around the world that offers academic, business and general English courses.</small>

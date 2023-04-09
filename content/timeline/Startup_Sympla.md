@@ -24,6 +24,9 @@ During the first year, I led and structured the financial, administrative, human
 At length, when I decided to end this period of my career to take a break and follow my way living abroad, I left a company 50 times bigger than when I started, with 5 more offices in 5 different cities and nationally recognized as the market leader; two completed due diligence that resulted in two investments made by a global leader in mobile marketplaces; a management software (SAP) implemented and designed to integrate all operations; innumerable procedures developed and good practices applied; and last but not least, a brilliant and loyal financial team to continue the work of ensuring the company’s financial stability and growth.
 
 <br/>
+
+{{< image-gallery gallery_dir="pictures/sympla" >}}
+
 <br/>
 
 <small><sup>1</sup> [Sympla](https://www.sympla.com.br) is Brazil's leading self-service ticketing and event management platform. The company has been created to empower event organizers by providing them with a complete set of tools that facilitate ticket selling and managing each stage of their events.</small>

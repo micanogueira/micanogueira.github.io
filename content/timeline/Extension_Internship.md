@@ -32,6 +32,9 @@ The crisis of capitalism and its inherent worsening of poverty has led to the em
 - Working in the extension programs department led me to be even more active as a volunteer, especially in social projects. The one that I dedicated the most was the [Rondon Project](https://www.gov.br/defesa/pt-br/assuntos/projeto-rondon), the largest university volunteer initiative in Brazil.
 
 <br/>
+
+{{< image-gallery gallery_dir="pictures/puc" >}}
+
 <br/>
 
 <small><sup>1</sup> [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/destaques/Paginas/default.aspx) (PUC Minas) is a private and non-profit Brazilian Catholic university. Recently, the Congregation for Catholic Education of the Vatican chose the Pontifical Catholic University of Minas Gerais, PUC Minas, as the largest in the world.</small><br/>
