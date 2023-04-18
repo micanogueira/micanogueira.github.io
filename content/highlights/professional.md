@@ -13,10 +13,10 @@ date: 2020-10-22T15:21:48+02:00
     > [Had an incredible opportunity to build a startup from the ground up&nbsp;{{< fa regular hand-pointer >}}][from the ground up]
     
     - Joined the co-founders in their promising venture and supported them in building a company 50 times bigger than when we started, with 5 more offices in 5 different cities and nationally recognized as the market leader.
-    - Created 4 departments from scratch – finance, administrative, human resources and personnel –, leading and operating them together for over a year.
+    - Created 4 departments from scratch – finance, administrative, human resources, and personnel –, leading and operating them together for over a year.
     - Led a team of 6 people, all hired to assume positions that I created.
-    - Led a 12-person multidisciplinary team that work together to succeed in the SAP implementation, oriented to integrate operations and consolidate the monthly close on schedule, which reduced the closing time by 50%.
-    - Recognized for responding 2 due diligence successfully with high quality of financial information and control, which resulted in 2 major investments made by a global leader in mobile marketplaces.
+    - Led a 12-person multidisciplinary team that worked together to succeed in the SAP implementation, oriented to integrate operations and consolidate the monthly close on schedule, which reduced the closing time by 50%.
+    - Recognized for responding to 2 due diligence successfully with high-quality financial information and control, which resulted in 2 major investments made by a global leader in mobile marketplaces.
 
 [from the ground up]:      /timeline/startup_sympla/ "See this event in the timeline"
 
