@@ -15,7 +15,7 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid graduation-cap >}}&nbsp;Pursuing a [second] undergraduate degree.
 
-    {{< fas fa seedling >}}&nbsp;Became an active member of the Environmental Department of the Student Representation (Uref).
+    {{< fas seedling >}}&nbsp;Became an active member of the Environmental Department of the Student Representation (Uref).
 
     {{< fa solid drum >}}&nbsp;Joined Praias do Isar, a Rio-style Samba Percussion School and one of TUM’s Culture & Arts Student Clubs.
 
