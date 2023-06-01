@@ -8,7 +8,7 @@ eventName: Pursuing a second undergraduate degree, one with a specialization in 
 eventLocation: Germany
 ---
 
-## A dream comes true
+## A dream come true
 
 Studying abroad has been a dream for over a decade! When I finally had the opportunity to live overseas, I set that as my main goal. While still in Brazil, I found TUM<sup>1</sup>, the Technical University of Munich, as the place where I wanted to study and build my academic life abroad. Getting admitted after an extensive application process was literally a dream come true!
 

@@ -11,9 +11,13 @@ date: 2020-10-21T15:21:48+02:00
 
     <span class="eduperiod">2021 ➛ Present</span>
 
-    {{< fa solid user-graduate >}}&nbsp;[Admitted to the Technical University of Munich] to be enrolled in the Bachelor of Science program in Management & Technology with a specialization in Computer Engineering.
+    {{< fa light user-graduate >}}&nbsp;[Admitted to the Technical University of Munich] to be enrolled in the Bachelor of Science program in Management & Technology with a specialization in Computer Engineering.
 
     {{< fa solid graduation-cap >}}&nbsp;Pursuing a [second] undergraduate degree.
+
+    {{< fa-solid fa-trees >}} Became an active member of the Environmental Department of the Student Representation (Uref).
+
+    {{< fa-regular fa-drum >}} Joined Praias do Isar, a Rio-style Samba Percussion School and one of TUM’s Culture & Arts Student Clubs.
 
 [Admitted to the Technical University of Munich]:         /timeline/second_degree_TUM/ "See this event in the timeline"
 [second]:         /timeline/won_scholarship2/ "See the first one in the timeline"
@@ -83,7 +87,7 @@ date: 2020-10-21T15:21:48+02:00
     {{< fa solid book-reader >}}&nbsp;Entered elementary school as one of the few students who already knew how to read and write, helping peers in their learning process.
 
     {{< fa solid theater-masks >}}&nbsp;Wrote a play, directed it and acted together with some classmates, making a presentation to everyone in the school.
-    
+
     {{< fa solid users >}}&nbsp;Several times elected class representative.
 
     {{< fa solid user-shield >}}&nbsp;Took part in the student council for a year.
