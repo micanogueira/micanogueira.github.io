@@ -15,7 +15,11 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid graduation-cap >}}&nbsp;Pursuing a [second] undergraduate degree.
 
+    {{< fa solid seedling >}}&nbsp;Nominated for the 2024 DAAD Prize by the TUM Center for Study and Teaching.
+
     {{< fa solid seedling >}}&nbsp;Became an active member of the Environmental Department of the Student Representation (URef).
+
+    {{< fa solid seedling >}}&nbsp;Elected by the Student Representation as the Head of the Environmental Lecture Series.
 
     {{< fa solid drum >}}&nbsp;Joined Praias do Isar, a Rio-style Samba Percussion School and one of TUM’s Culture & Arts Student Clubs.
 
