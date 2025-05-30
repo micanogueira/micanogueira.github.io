@@ -8,7 +8,9 @@ pluralizeListTitles = false
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+[pagination]
+  pagerSize = 10
+
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a MIT License."
 
@@ -38,8 +40,8 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Micaelle Nogueira de Carvalho"
+# [author]
+#  name = "Micaelle Nogueira de Carvalho"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -50,6 +52,8 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+  author = "Micaelle Nogueira de Carvalho"
+
   dateform        = "Jan, 2006"
   # dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
