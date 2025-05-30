@@ -42,9 +42,9 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid award >}}&nbsp;[Won a full government scholarship] through the University for all Program ([ProUni]), after passing the National High School Exam ([ENEM]).
 
-    {{< fa solid book-reader >}}&nbsp;Accepted two consecutive semesters to be a teaching assistant in the Financial Management program, teaching the subjects of [Introduction to Accounting] and [Financial Mathematics], respectively.
+    {{< fa solid book-open-reader >}}&nbsp;Accepted two consecutive semesters to be a teaching assistant in the Financial Management program, teaching the subjects of [Introduction to Accounting] and [Financial Mathematics], respectively.
 
-    {{< fa solid hands-helping >}}&nbsp;Engaged in extension programs, acting as a volunteer in support of the [“Census and Citizenship”] project.
+    {{< fa solid handshake-angle >}}&nbsp;Engaged in extension programs, acting as a volunteer in support of the [“Census and Citizenship”] project.
 
     {{< fa solid users >}}&nbsp;Invited to be the [coordinator of a new extension program] - “Student - University - Society Integration Program” - due to the outstanding dedication in the previous program.
 
@@ -75,7 +75,7 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid award >}}&nbsp;[Won a full private scholarship] after passing an entrance exam, being among the 12 who passed, out of more than five hundred candidates.
 
-    {{< fa solid microphone-alt >}}&nbsp;Took part in the school choir.
+    {{< fa solid microphone-lines >}}&nbsp;Took part in the school choir.
 
     {{< fa solid music >}}&nbsp;Co-wrote and sang a song with a classmate at the graduation ceremony.
 
@@ -88,9 +88,9 @@ date: 2020-10-21T15:21:48+02:00
 
     <span class="eduperiod">1997 ➛ 2006</span>
 
-    {{< fa solid book-reader >}}&nbsp;Entered elementary school as one of the few students who already knew how to read and write, helping peers in their learning process.
+    {{< fa solid book-open-reader >}}&nbsp;Entered elementary school as one of the few students who already knew how to read and write, helping peers in their learning process.
 
-    {{< fa solid theater-masks >}}&nbsp;Wrote a play, directed it and acted together with some classmates, making a presentation to everyone in the school.
+    {{< fa solid masks-theater >}}&nbsp;Wrote a play, directed it and acted together with some classmates, making a presentation to everyone in the school.
 
     {{< fa solid users >}}&nbsp;Several times elected class representative.
 

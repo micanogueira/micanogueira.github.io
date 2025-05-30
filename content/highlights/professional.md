@@ -11,7 +11,7 @@ date: 2020-10-22T15:21:48+02:00
 :   ### Head of Finance at Sympla&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*4 yrs*</span>
 
     > [Had an incredible opportunity to build a startup from the ground up&nbsp;{{< fa regular hand-pointer >}}][from the ground up]
-    
+
     - Joined the co-founders in their promising venture and supported them in building a company 50 times bigger than when we started, with 5 more offices in 5 different cities and nationally recognized as the market leader.
     - Created 4 departments from scratch – finance, administrative, human resources, and personnel –, leading and operating them together for over a year.
     - Led a team of 6 people, all hired to assume positions that I created.
@@ -49,7 +49,7 @@ date: 2020-10-22T15:21:48+02:00
 
     {{< svg flag >}}&nbsp;[Started working] at the age of 15, where I became a [contributing editor] to AVRO dx – an online [English-Portuguese-English Dictionary] –, having its database 100% formatted.
 
-    {{< fa solid university >}}&nbsp;[Worked at a Federal Bank] for 2 years as an intern and became one of the references for training and onboarding, leading new employees during their first weeks of working directly with customers.
+    {{< fa solid building-columns >}}&nbsp;[Worked at a Federal Bank] for 2 years as an intern and became one of the references for training and onboarding, leading new employees during their first weeks of working directly with customers.
 
     {{< fa solid user-plus >}}&nbsp;[Invited to work again] at the company where I got my first job, but with a different approach: testing the dictionary platform as an end-user, reporting issues and requesting features.
 

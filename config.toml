@@ -160,7 +160,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "highlights"
     name       = "Highlights"
-    url        = "highlights/professional/"
+    url        = "highlights/educational/"
     weight     = 3
   [[menu.main]]
     identifier = "documents"
