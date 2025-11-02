@@ -3,7 +3,7 @@ author:
   name: "Micaelle Nogueira"
 date: 2018-04-19
 title: Moved to another continent
-eventName:
+eventName: Expat
 eventLocation: Munich, Germany
 ---
 

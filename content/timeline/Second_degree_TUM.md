@@ -3,8 +3,8 @@ author:
   name: "Micaelle Nogueira"
 date: 2021-10-01
 title: Admitted to the Technical University of Munich
-subtitle: Out 2021 - Present
-eventName: Pursuing a second undergraduate degree, one with a specialization in technology
+subtitle: Out 2021 - Aug 2025
+eventName: B.Sc. in Management & Technology with a specialization in Computer Engineering
 eventLocation: Germany
 ---
 
@@ -18,9 +18,9 @@ By the way, this website is an outcome of my application for enrollment in the B
 
 I have found the Bachelor in Management & Technology program to be the perfect fit for my career and my ambition to study at TUM.
 
-For about 6 years, I have developed and honed my management skills. On the other hand, I have never properly studied technology, although I have some skills. I can say that programming is a latent aptitude. When I was between 13 and 14 years old, I really wanted to study Computer Engineering. Throughout my career, I worked alongside the IT team several times, and the most I did was design mock-ups of tools and features. I have always been close enough to learning to code. In fact, I always wanted to know how to code to be independent, build my own tools and features, and meet my needs more quickly and autonomously.
+For about 6 years, I have developed and honed my management skills. On the other hand, I have never properly studied technology, although I have some skills. I can say that programming was a latent aptitude. When I was between 13 and 14 years old, I considred studying Computer Engineering. Throughout my career, I worked alongside IT teams several times, and the most I did was design mock-ups of tools and features. I have always been close enough to learning to code. In fact, I always wanted to know how to code to be independent, build my own tools and features, and meet my needs more quickly and autonomously.
 
-Combining management and technology in a bachelor’s degree is combining the best of me! That is exactly the balance I have been looking for.
+Combining management and technology in a bachelor’s degree was exactly the balance I was looking for.
 
 <br/>
 <br/>
