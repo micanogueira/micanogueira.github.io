@@ -15,7 +15,7 @@ In mid-2015, I was very committed to learning a certain programming language, R<
 
 As an alternative to the quarantine times due to COVID-19 – when I realized that all my plans were frozen – I decided to make this happen: learn a programming language. This time, I chose to learn Python<sup>2</sup> which has an easy-to-understand syntax. In addition to the potential to be a tool in my work of analyzing financial data, forecasting, and creating growth strategies, learning Python also serves a general purpose that would broaden my field of knowledge.
 
-I completed an online course at the University of Michigan and since then have been studying on my own, relying on different resources, such as books and the Python documentation, solving coding challenges, and being mentored by my husband, who is a Pythonista with over 20 years of experience.
+I completed an online course at the University of Michigan and continued learning on my own, relying on different resources, such as books and the Python documentation, solving coding challenges, and being mentored by my husband, who is a Pythonista with over 20 years of experience.
 
 <br/>
 <br/>

@@ -15,14 +15,14 @@ footer: "Duration: 4 yrs 1 mo"
 
 ## An idea was born
 
-I identified a pain point in the operation of promotional marketing companies as a market opportunity while freelancing for them. I participated in all stages of the operation in two or three companies and realized that they could all do better. So, I decided to solve this pain point by creating a solution that was a scalable business. As this market was not my area of expertise, I invited a friend to fill this gap and be my business partner.
+I identified a pain point in the operation of promotional marketing companies as a market opportunity while freelancing for them. Having participated in all operational stages across several companies, I recognized a gap in quality. So, I decided to solve this pain point by creating a scalable business solution. As this market was not my area of expertise, I invited a friend to fill this gap and be my business partner.
 
 ## Market introduction
 
-After creating and validating the business model as scalable and profitable, we started to run the business by presenting a highly qualified team to the market to promote their brand, with a high standard of performance guaranteed. We created a platform for registering and managing promoters that gained popularity in a few weeks. Our competitive edge and the pain point solution was: in every promotional marketing activity, we nominated a supervisor to ensure that the team made an excellent delivery based on the high-quality training we set. It did not represent extra costs for the customer.
+After creating and validating the business model as scalable and profitable, we started to run the business by presenting a highly qualified team to the market to promote their brand, with a high standard of performance guaranteed. We created a platform for registering and managing promoters that gained popularity in a few weeks. Our competitive advantage and key solution was: in every promotional marketing activity, we nominated a supervisor to ensure that the team made an excellent delivery based on the high-quality training we set. It did not represent extra costs for the customer.
 
 It worked well. The market started to notice us and spread the happy word. As a result, we got most of our clients by word-of-mouth recommendations.
 
 ## The end
 
-Without an office, this bootstrapping business ran for four years until its closure, which was done by mutual decision. While running it, I was building my career in the financial field. Consequently, my dedication and focus were most directed to Finance. In 2016, I faced the prioritization process that led me to decide to close *Quatrenhum*.
+Without an office, this bootstrapped venture ran successfully for four years until its closure, which was done by mutual decision. While running it, I was building my career in the financial field. Consequently, my dedication and focus were most directed to Finance. In 2016, I faced a prioritization process that led me to decide to close *Quatrenhum*.

@@ -11,13 +11,13 @@ footer: "Duration: 3 mos"
 
 ## Engagement
 
-As soon as my second year of college<sup>1</sup> started, I tried to remain engaged in extracurricular activities. I was invited by the same professor with whom I worked in the [previous extension program](https://micanogueira.github.io/timeline/engaged_extension/) to be the coordinator of a new extension program he had submitted to the University.  I volunteered to lead the "Student - University - Society Integration Program" project, which aimed to advocate for education and strengthen the university's mission by providing training to students and encouraging their interchange with teachers, staff, classmates, and community.
+As soon as my second year of college<sup>1</sup> started, I tried to remain engaged in extracurricular activities. I was invited by the same professor with whom I had worked in a [previous university extension program](https://micanogueira.github.io/timeline/engaged_extension/) to be the coordinator of a new extension program he had submitted to the university. I volunteered to lead the "Student - University - Society Integration Program" project, which aimed to advocate for education and strengthen the university's mission by providing training to students and encouraging their interchange with teachers, staff, classmates, and the community.
 
 ## The extension program
 
-The initial kick-off of the project was to develop its theoretical framework; in other words, to develop the methodology and research to show the team and other partners what methods would be used. The next step was to compose the team. So the teacher and I selected the other volunteers. In this first stage of the project, we conducted focus group interviews with teachers from different programs to diagnose what the main problems were in the social relations between employees, teachers and students. We also conducted these focus group interviews with students, also from different programs.
+In this first stage of the project, we conducted focus group interviews with professors  from different academic programs to identify  what the main problems were in the social relations among  employees,  professors and students. We repeated  these focus groups with students, also from various  programs.
 
-At the end of the semester, I presented the project and its current results at the Extension Workshop at the University.
+At the end of the semester, I presented the project and its current results at the university's Extension Workshop.
 
 <br/>
 <br/>

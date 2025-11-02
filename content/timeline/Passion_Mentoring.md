@@ -13,9 +13,9 @@ footer: "Duration: 4 mos"
 
 A friend of mine who was also a former co-worker invited me to mentor in the "financial week" of a startup acceleration program<sup>1</sup>. I was very excited to have this opportunity to share knowledge and support the local startup ecosystem. As it couldn't be different, my engagement went beyond that week. I became part of the examining board, judging the various early-stage startups, their businesses and their financial projections.
 
-The next edition of the program took place in the same year and gained a different format and new sponsors. I participated in giving support in all possible topics, such as market introduction and strategic planning. 
+The next edition of the program took place in the same year and gained a different format and new sponsors. I participated in giving support in all possible topics, such as market introduction and strategic planning.
 
-At that time, other acceleration programs invited me to give talks at events that they organized to promote innovation and entrepreneurship.
+At that time, other acceleration programs invited me to give talks at events organized to promote innovation and entrepreneurship.
 
 <br/>
 

@@ -2,16 +2,16 @@
 author:
   name: "Micaelle Nogueira"
 date: 2010-03-15
-title: Started teaching a new discipline
+title: Started tutoring a new discipline
 subtitle: Mar 2010 - Jun 2010 • 4 mos
-eventName: Teaching Assistant 
+eventName: Tutor
 eventLocation: Brazil
 footer: "Duration: 4 mos"
 ---
 
 ## New semester, more knowledge to share
 
-I found great joy in teaching other classes and showing them different ways to learn and improve their skills. For that reason, at the beginning of my second year of college<sup>1</sup>, I decided to continue being a teaching assistant but in a new discipline. Therefore, I became the teaching assistant of the Financial Mathematics discipline of the Financial Management program.
+I found great joy in tutoring other classes and showing them different ways to learn and improve their skills. For that reason, at the beginning of my second year of college<sup>1</sup>, I decided to continue being a course tutor but in a new discipline. Therefore, I became the tutor  for the Financial Mathematics course in the Financial Management program.
 
 <br/>
 <br/>

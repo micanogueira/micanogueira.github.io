@@ -13,9 +13,9 @@ footer: "Duration: 9 mos"
 
 I love that feeling of starting something new at the beginning of the year, even if it means restarting something!
 
-In January 2020, I started a German course at a language school<sup>1</sup> and completed the A1 module in about 2 months of intensive classes. However, it had to be stopped due to COVID-19 restrictions. In mid-May, I resumed the learning process using an online platform from an excellent German school<sup>2</sup>. After a  few months, I realized that it was not really working. I was progressing very well, passing the exercises without any problem, but I did not feel that the knowledge was taking root. I gave it some time, but that feeling remained. So I contacted a German teacher and arranged the beginning of private lessons in January 2021.
+In January 2020, I started a German course at a language school<sup>1</sup> and completed the A1 module in about 2 months of intensive classes. However, it had to be stopped due to COVID-19 restrictions. In mid-May, I resumed the learning process using an online platform from an excellent German school<sup>2</sup>. After a  few months, I realized that it was not really working. I was progressing very well, completing the exercises without any problem, but I did not feel that the knowledge was taking root. I gave it some time, but that feeling remained. So I contacted a German teacher and arranged the beginning of private lessons in January 2021.
 
-The lessons ran effectively until the end of September, when I reached the B1 level and started a bachelor’s degree at the Technical University of Munich. While at University, I kept up my German language learning during my first term.
+The lessons ran effectively until the end of September, when I reached the B1 level and started a bachelor’s degree at the Technical University of Munich. While at university, I resumed my German studies.
 
 <br/>
 <br/>

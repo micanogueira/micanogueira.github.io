@@ -17,7 +17,7 @@ I participated in language exchange meetups, started to study individually at ho
 
 ## Full immersion
 
-I went to London to study at an English School<sup>1</sup>. I took a preparation course to obtain the international certification, IELTS (International English Language Testing System) and took extra special classes "Speaking with Confidence". It was an intensive course of 22.5 hours per week for 2 months (8 weeks). In addition, I chose to live with a family in the first month and with a different family in the second month, in order to expand my experience and have a complete immersion.
+I went to London to study at an English Language School<sup>1</sup>. I took a preparation course to obtain the international certification, IELTS (International English Language Testing System) and took extra special classes "Speaking with Confidence". It was an intensive course of 22.5 hours per week for 2 months (8 weeks). In addition, I chose to live with a family in the first month and with a different family in the second month, to expand my experience and have a complete immersion.
 
 Going to London was a milestone in my learning process. I improved in two months what I couldn't do before. More than advancing to level C1 on the school exit test and achieving the minimum IELTS required for a master's degree in Europe, I gained the confidence I was looking for and returned to Munich ready to learn the next language: German.
 

@@ -17,9 +17,9 @@ In addition to the audit, I built the finance department, its processes and rout
 
 ## Management phase
 
-Changes such as policies, controls, and processes implementation caused tough resistance from employees. However, as tough as this resistance were my patience and persistence in being transparent and presenting each change clearly, explaining what/why/how/when it should be applied. In a few weeks, I gained their trust and, more than that, their support. I considered it as a triumph during my first time managing a team. In this case, a multidisciplinary team of 8 people.
+Changes such as internal policies, controls, and processes implementation caused tough resistance from employees. However, as tough as this resistance were my patience and persistence in being transparent and presenting each change clearly, explaining what/why/how/when it should be applied. In a few weeks, I gained their trust and, more than that, their support. I considered it as a triumph during my first time managing a team. In this case, a multidisciplinary team of 8 people.
 
-Besides the restructuring project, I designed and implemented the operating flow of the new revenue stream, starting another department from scratch: a sales one. Once again, I built and implemented procedures, controls, and routines, as well as hiring the team and organizing their training. The sales surpassed expectations, representing about 80% of all revenue in less than a year.
+Besides the restructuring project, I designed and implemented the operating flow of a new revenue stream, starting another department from scratch: a sales one. Once again, I built and implemented procedures, controls, and routines, as well as hired the team and organized their training. Sales surpassed expectations, representing about 80% of all revenue in less than a year.
 
 <br/>
 <br/>

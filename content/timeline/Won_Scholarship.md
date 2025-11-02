@@ -4,14 +4,14 @@ author:
 date: 2007-02-01
 title: Won a scholarship
 subtitle: Feb 2007 - Nov 2008 • 2 yrs
-eventName: High School Student 
+eventName: High School Student
 eventLocation: Brazil
 footer: "Duration: 2 yrs"
 ---
 
 ## Contextualizing
 
-It all started when I heard the news that some private schools in my hometown were offering scholarships to high school students who couldn’t afford it. That caught my attention immediately. Admission to universities in Brazil requires students to sit a very competitive entrance exam known as *vestibular*. Private high school students have a great advantage due to the high-quality education they receive. Besides, they can afford extra classes or preparatory courses for the entrance exam. At that time, all my studies had been completed in public school. Furthermore, financing a preparatory course was out of the question. The news really put me back on track to pursue higher education.
+It all started when I heard on the news that some private schools in my hometown were offering scholarships to high school students who couldn’t afford it. That caught my attention immediately. Admission to universities in Brazil requires students to sit a very competitive entrance exam known as *vestibular*. Private high school students have a great advantage due to the high-quality education they receive. Besides, they can afford extra classes or preparatory courses for the entrance exam. At that time, all my studies had been completed in public school. Furthermore, financing a preparatory course was out of the question. The news really put me back on track to pursue higher education.
 
 ## Pinning all my hopes
 
@@ -21,7 +21,7 @@ After a social-economic interview, I was able to take the scholarship test. I wa
 
 ## I did it
 
-Weeks later, I was about to turn off my computer at my workstation when I decided to look up my name on the approved list. I remember this moment so vividly! When I scrolled a bit and found my name, I could barely believe it. I wanted to shout of joy, but I couldn’t because I was in the office. I felt so proud of myself. I was one of the twelve students who passed among the more than five hundred candidates.
+Weeks later, I was about to turn off my computer at my workstation when I decided to look up my name on the approved list. I remember this moment so vividly! When I scrolled down and found my name, I could barely believe it. I wanted to shout of joy, but I couldn’t because I was in the office. I felt so proud of myself. I was one of the twelve students who passed among the more than five hundred candidates.
 
 I grasped an opportunity to study for two years at the best private school in the city as a way to prepare for the *vestibular*, increasing my chances of competing for a place in college.
 

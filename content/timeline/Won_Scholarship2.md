@@ -4,7 +4,7 @@ author:
 date: 2009-02-01
 title: Won a scholarship to College
 subtitle: Feb 2009 - Jul 2011 • 2 yrs 6 mos
-eventName: College Student 
+eventName: College Student
 eventLocation: Brazil
 footer: "Duration: 2 yrs 6 mos"
 ---
@@ -15,7 +15,7 @@ I received a high score in the national entrance exam (known as [ENEM](https://e
 
 Since the beginning of my second year of high school, while working in a bank in parallel, my dream was to study economics. I aimed at the Federal University, which offered a recognizable program in economics. This dream lasted the two years I had to finish high school. During a vocational test and visit to the Federal University, I discovered that the classes would be in the morning and afternoon. This important information shattered my dream because working was a matter of necessity for me. I had to work to study, to pay for basic expenses such as academic books, transportation and food. I couldn’t afford to study on a shift other than at night.
 
-In summary, I had to be realistic and find a program related to economics, where classes were taught on the night shift. Besides, developing skills that helped me find a balance between work and study remained my number one day-to-day task.
+In summary, I had to be realistic and find a program related to economics, where classes were taught on the night shift. Moreover, developing skills to help me find a balance between work and study remained my number one day-to-day task.
 
 <br/>
 <br/>
