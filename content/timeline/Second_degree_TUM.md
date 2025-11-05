@@ -3,9 +3,10 @@ author:
   name: "Micaelle Nogueira"
 date: 2021-10-01
 title: Admitted to the Technical University of Munich
-subtitle: Out 2021 - Aug 2025
+subtitle: Out 2021 - Aug 2025 • 3 yrs 10 mos
 eventName: B.Sc. in Management & Technology with a specialization in Computer Engineering
 eventLocation: Germany
+footer: "Duration: 3 yrs 10 mos"
 ---
 
 ## A dream come true

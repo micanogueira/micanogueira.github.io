@@ -21,7 +21,7 @@ After a social-economic interview, I was able to take the scholarship test. I wa
 
 ## I did it
 
-Weeks later, I was about to turn off my computer at my workstation when I decided to look up my name on the approved list. I remember this moment so vividly! When I scrolled down and found my name, I could barely believe it. I wanted to shout of joy, but I couldn’t because I was in the office. I felt so proud of myself. I was one of the twelve students who passed among the more than five hundred candidates.
+Weeks later, I was about to turn off my computer at my workstation when I decided to look up my name on the approved list. I remember this moment so vividly! When I scrolled down and found my name, I could barely believe it. I wanted to shout of joy, but I couldn’t because I was in the office. I felt so proud of myself! I was one of the twelve students who passed among the more than five hundred candidates.
 
 I grasped an opportunity to study for two years at the best private school in the city as a way to prepare for the *vestibular*, increasing my chances of competing for a place in college.
 
