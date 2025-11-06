@@ -15,11 +15,11 @@ My journey into leading the Environmental Lecture Series (RiVo)<sup>1</sup> at t
 
 For three consecutive semesters, I had the privilege of serving as the *Beauftragte für die Ringvorlesung Umwelt*, an experience that was incredibly rewarding and fulfilling. From building a strong and passionate team to organizing impactful lectures that continue to inspire students and raise awareness about critical environmental issues, this role allowed me to promote sustainability on campus through interdisciplinary learning as well as to connect with different communities at TUM. It was both an honour and a pleasure to lead RiVo and I am so grateful for the opportunity to have been a part of it, that I remain an active member, committed to supporting the current leaders in ensuring the ongoing success of the lecture series.
 
-## Curated Program Overview
+## Curated Programs Overview
 
-- “Cities of Change: Unleashing  the  Power  of  Sustainable  Solutions” was the theme for the winter semester 2023/2024, with 434 students enrolled to learn from 13 weeks of hybrid lectures with experts talking about the future of our cities.
+- “Cities of Change: Unleashing  the  Power  of  Sustainable  Solutions” was the theme for the winter semester 2023/2024, during which experts discussed the future of our cities over 13 weeks of hybrid lectures.
 - “One Home, One Chance: Time to Accomplish Sustainability Goals Before the Deadline” was the theme for the summer semester 2024, with a record of 526 students enrolled to explore success stories behind the UN’s SDGs through 11 lectures and 5 events, including workshops and excursions.
-- “Out of Sight, Out of Mind? A Journey into the World's Hidden Realities”was the theme for the winter semester 2024/2025, with 263 students enrolled to explore impactful aspects of our world that often remain unnoticed through 13 weekly lectures and 5 events, including a workshop on sustainability and mental wellbeing that put together about 62 participants in a lecture hall to meditate and learn breathing exercises.
+- “Out of Sight, Out of Mind? A Journey into the World's Hidden Realities”was the theme for the winter semester 2024/2025 and explored impactful aspects of our world that often remain unnoticed through 13 weekly lectures and 5 events, including a workshop on sustainability and mental wellbeing that put together about 62 participants in a lecture hall to meditate and learn breathing exercises.
 - A special program designed for the [TUM Sustainability Day](https://www.tum.de/en/about-tum/goals-and-values/sustainability/sustainability-day-2024) in 2024, which consisted of a four-hour talk series with two programs running simultaneously in different rooms with a new talk starting every half an hour.
 
 <br/>
