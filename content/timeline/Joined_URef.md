@@ -17,12 +17,12 @@ Among the incredible hundreds of [student clubs at TUM](https://www.tum.de/en/co
 
 Surprisingly, I discovered that an initiative that I was eager to find out more about was also part of URef. Just a few weeks before joining the team, I had registered to for the course *“The Climate Drama”* as part of an interdisciplinary lecture series on current environmental topics organized by students for over 40 years.
 
-Naturally, my involvement quickly extended to the **Environmental Lecture Series (RiVo)**<sup>2</sup>. I volunteered proactively to support RiVo, working behind the scenes with a wonderful team and becoming familiar with the lecture series both as a student attending the course and as a volunteer.
+Naturally, my involvement quickly extended to the Environmental Lecture Series (RiVo)<sup>2</sup>. I volunteered proactively to support RiVo, working behind the scenes with a wonderful team and becoming familiar with the lecture series both as a student attending the course and as a volunteer.
 
 I strongly believe in interdisciplinary activities and how they can enhance the learning curve, a conviction strengthened during my first undergraduate degree in Brazil, where I advocated for causes like civil rights, education, and solidarity economy. RiVo perfectly combines my core motivations: education and sustainability.
 
 <br/>
 <br/>
 
-<small><sup>1</sup> [The Environmental Department](https://umwelt.asta.tum.de/en/home-en/) of the Student Representation of the Technical University of Munich (TUM) is the contact point for environmental and sustainability issues, promoting sustainable development on campus and influencing strategic decisions.</small>
+<small><sup>1</sup> [The Environmental Department](https://umwelt.asta.tum.de/en/home-en/) of the Student Representation of the Technical University of Munich (TUM) is the contact point for environmental and sustainability issues, promoting sustainable development on campus and influencing strategic decisions.</small><br/>
 <small><sup>2</sup> [The Environmental Lecture Series](https://umwelt.asta.tum.de/en/ringvorlesung/) is a student-led public lecture series that has been running since 1985 at TUM. Every semester, a dedicated team plans and designs a new and inspiring program on current environmental topics, which is translated into a course where students can earn 1 or 3 ECTS.</small>
