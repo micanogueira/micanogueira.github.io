@@ -9,7 +9,7 @@ eventLocation: Technical University of Munich, Germany
 
 ## Bridging Politics and Technology
 
-My academic journey at the Technical University of Munich (TUM)sup>1</sup> has been one of continuous learning and growing passion for sustainability. After completing my bachelor’s degree in Management & Technology, I realized the next step was to develop my expertise in policy-making to create meaningful impact, which led me to pursue the Master’s Program in Politics & Technology<sup>2</sup> with a specialization in sustainability.
+My academic journey at the Technical University of Munich (TUM)<sup>1</sup> has been one of continuous learning and growing passion for sustainability. After completing my bachelor’s degree in Management & Technology, I realized the next step was to develop my expertise in policy-making to create meaningful impact, which led me to pursue the Master’s Program in Politics & Technology<sup>2</sup> with a specialization in sustainability.
 
 ## The epiphany
 
