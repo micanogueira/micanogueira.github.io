@@ -3,10 +3,10 @@ title: "About"
 date: 2020-10-21T15:21:48+02:00
 ---
 
-Hi, I'm Micaelle 👋🏻  a Brazilian financial accounting specialist living in beautiful Munich, Germany. I'm passionate about leading people and driving business to understand their operations and results. After 12 uninterrupted years of building my career in Brazil, a new era began in my life when I moved to Munich. I've been filling this gap by honing other skills and focusing on integrating into the German way of life and also preparing to grasp opportunities here, on the other side of the Earth.
+Hi, I'm Micaelle (Mica) 👋🏻 a Brazilian expat living in beautiful Munich, Germany.
 
-As a student pursuing my second undergraduate degree, I have been dedicating myself full time to the Bachelor’s program in Management and Technology, specializing in Computer Engineering at the Technical University of Munich.
+Growing up in Brazil, I was the first person in my family to attend university, a milestone of immense significance for us. I started working at the age of 15 and I never stopped until I moved to Germany in 2018. After twelve uninterrupted years of building my career in Brazil, I was finally able to realize a dream I had nurtured for over a decade: studying abroad. My passion for education led me to the Technical University of Munich, where I have completed my second undergraduate degree and am now pursuing a master’s degree.
 
 ## And a little bit more about me
 
-A poet since childhood, I have a passion for writing and reading. As a nature lover, biking, hiking and going everywhere I can be surrounded by trees is another passion – one that triggers inspiration and connects it to the soul. Flavours, smells and textures [!!!spoiler alert] reveal my passion for cooking and, consequently, for food. When I'm not in my kitchen, I love to visit restaurants and explore cities and villages to experience their cuisine. I have other passions in life and much more on my bucket list, but I can't extend any more lines here... 🙃 In short, I'm passionate about living.
+A poet since childhood, I have a passion for writing and reading. As a nature lover, biking, hiking and going everywhere I can be surrounded by trees is another passion – one that triggers inspiration and connects it to the soul. Flavours, smells and textures [!!!spoiler alert] reveal my passion for cooking and, consequently, for food. When I'm not in my kitchen, I love visiting restaurants and exploring cities and villages to experience their cuisine. I have many other passions in life and much more on my bucket list, but I can't extend any more lines here... 🙃 In short, I'm passionate about living.
