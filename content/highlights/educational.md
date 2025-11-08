@@ -6,17 +6,16 @@ date: 2020-10-21T15:21:48+02:00
 
 ## At a glance: achievements and highlights throughout my educational journey
 
-
+ 
 :   ### M.Sc. in Politics & Technology at TUM
 
     <span class="eduperiod">2025 ➛ Present</span>
 
     {{< fa solid user-graduate >}}&nbsp;[Pursuing] the Master’s Program in Politics & Technology with a specialization in sustainability at the Technical University of Munich.
 
-[Pursuing]                  /timeline/master_degree_tum/ "See this event in the timeline"
+[Pursuing]:         /timeline/master_degree_tum/ "See this event in the timeline"
+
  
-
-
 :   ### B.Sc. in Management & Technology at TUM
 
     <span class="eduperiod">2021 ➛ 2025</span>
@@ -35,12 +34,11 @@ date: 2020-10-21T15:21:48+02:00
 
 [Admitted to the Technical University of Munich]:    /timeline/second_degree_TUM/ "See this event in the timeline"
 [second]:                                            /timeline/won_scholarship2/ "See the first one in the timeline"
-[Nominated]                                          /timeline/second_degree_tum_completed/ "Know more about in the timeline"
-[DAAD Prize]                                         https://www.daad.de/en/the-daad/what-we-do/funding/prizes-awards/daad-prize/
-[Became an active member of]                         /timeline/joined_uref/ "See the first one in the timeline"
-[Head of the Environmental Lecture Series]           /timeline/elected_rivo/ "See the first one in the timeline"
-[Praias do Isar]                                     https://praiasdoisar.de/
-
+[Nominated]:                                         /timeline/second_degree_tum_completed/ "Know more about in the timeline"
+[DAAD Prize]:                                        https://www.daad.de/en/the-daad/what-we-do/funding/prizes-awards/daad-prize/
+[Became an active member of]:                        /timeline/joined_uref/ "See this event in the timeline"
+[Head of the Environmental Lecture Series]:          /timeline/elected_rivo/ "See this event in the timeline"
+[Praias do Isar]:                                    https://praiasdoisar.de/
 
  
 :   ### MBA in Finance at IBMEC
