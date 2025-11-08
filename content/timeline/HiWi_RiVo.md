@@ -6,7 +6,7 @@ title: Started working as a Student Assistant
 subtitle: Oct 2023 - Mar 2025 • 1 yr 5 mos
 eventName: Head of the Environmental Lecture Series
 eventLocation: Technical University of Munich, Germany
-footer: "Duration: 1 yr 5 mos"
+footer: "Duration: 1 yr 6 mos"
 ---
 
 ## Same role, different responsibilities
