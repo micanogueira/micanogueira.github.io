@@ -8,6 +8,20 @@ date: 2020-10-22T15:21:48+02:00
 ## At a glance: achievements and highlights throughout my professional journey
 
  
+:   ### Student Assistant at TUM&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*1 yr 6 mos*</span>
+
+    > [Head of the Environmental Lecture Series (RiVo)&nbsp;{{< fa regular hand-pointer >}}][RiVo]
+
+    - Led the design of three consecutive semester programs, curating over 40 expert speakers and developing interdisciplinary themes focused on sustainability.
+    - Moderated public lectures and events.
+    - Implemented a shift from textual assignments to in-class interactive activities – 'Engagement Labs' – increasing the attendance and participation significantly.
+    - Oversaw ECTS requirements, including designing final examination structures and participating in the evaluation committee.
+    - Developed and strengthened collaborations with other organizations and initiatives.
+    - Built the operational team from a core of 2 to 11 dedicated volunteers, implementing a formal onboarding process and creating internal departments.
+
+[RiVo]:      /timeline/hiwi_rivo/ "See this event in the timeline"
+
+ 
 :   ### Head of Finance at Sympla&nbsp;<small>-</small>&nbsp;<span style="font-size:0.675em;">*4 yrs*</span>
 
     > [Had an incredible opportunity to build a startup from the ground up&nbsp;{{< fa regular hand-pointer >}}][from the ground up]
