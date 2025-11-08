@@ -6,25 +6,41 @@ date: 2020-10-21T15:21:48+02:00
 
 ## At a glance: achievements and highlights throughout my educational journey
 
- 
-:   ### B.Sc in Management and Technology at TUM
 
-    <span class="eduperiod">2021 ➛ Present</span>
+:   ### M.Sc. in Politics & Technology at TUM
+
+    <span class="eduperiod">2025 ➛ Present</span>
+
+    {{< fa solid user-graduate >}}&nbsp;[Pursuing] the Master’s Program in Politics & Technology with a specialization in sustainability at the Technical University of Munich.
+
+[Pursuing]                  /timeline/master_degree_tum/ "See this event in the timeline"
+ 
+
+
+:   ### B.Sc. in Management & Technology at TUM
+
+    <span class="eduperiod">2021 ➛ 2025</span>
 
     {{< fa solid user-graduate >}}&nbsp;[Admitted to the Technical University of Munich] to be enrolled in the Bachelor of Science program in Management & Technology with a specialization in Computer Engineering.
 
-    {{< fa solid graduation-cap >}}&nbsp;Pursuing a [second] undergraduate degree.
+    {{< fa solid graduation-cap >}}&nbsp;Pursued a [second] undergraduate degree.
 
-    {{< fa solid medal >}}&nbsp;Nominated for the 2024 DAAD Prize by the TUM Center for Study and Teaching.
+    {{< fa solid medal >}}&nbsp;[Nominated] for the 2024 [DAAD Prize] by the TUM Center for Study and Teaching.
 
-    {{< fa solid seedling >}}&nbsp;Became an active member of the Environmental Department of the Student Representation (URef).
+    {{< fa solid seedling >}}&nbsp;[Became an active member of] the Environmental Department of the Student Representation (URef).
 
-    {{< fa solid id-card-clip >}}&nbsp;Elected by the Student Representation as the Head of the Environmental Lecture Series.
+    {{< fa solid id-card-clip >}}&nbsp;Elected by the Student Representation as the [Head of the Environmental Lecture Series].
 
-    {{< fa solid drum >}}&nbsp;Joined Praias do Isar, a Rio-style Samba Percussion School and one of TUM’s Culture & Arts Student Clubs.
+    {{< fa solid drum >}}&nbsp;Joined [Praias do Isar], a Rio-style Samba Percussion School and one of TUM’s Culture & Arts Student Clubs.
 
-[Admitted to the Technical University of Munich]:         /timeline/second_degree_TUM/ "See this event in the timeline"
-[second]:         /timeline/won_scholarship2/ "See the first one in the timeline"
+[Admitted to the Technical University of Munich]:    /timeline/second_degree_TUM/ "See this event in the timeline"
+[second]:                                            /timeline/won_scholarship2/ "See the first one in the timeline"
+[Nominated]                                          /timeline/second_degree_tum_completed/ "Know more about in the timeline"
+[DAAD Prize]                                         https://www.daad.de/en/the-daad/what-we-do/funding/prizes-awards/daad-prize/
+[Became an active member of]                         /timeline/joined_uref/ "See the first one in the timeline"
+[Head of the Environmental Lecture Series]           /timeline/elected_rivo/ "See the first one in the timeline"
+[Praias do Isar]                                     https://praiasdoisar.de/
+
 
  
 :   ### MBA in Finance at IBMEC
@@ -42,9 +58,9 @@ date: 2020-10-21T15:21:48+02:00
 
     {{< fa solid award >}}&nbsp;[Won a full government scholarship] through the University for all Program ([ProUni]), after passing the National High School Exam ([ENEM]).
 
-    {{< fa solid book-open-reader >}}&nbsp;Accepted two consecutive semesters to be a teaching assistant in the Financial Management program, teaching the subjects of [Introduction to Accounting] and [Financial Mathematics], respectively.
+    {{< fa solid book-open-reader >}}&nbsp;Accepted two consecutive semesters to be a course tutor in the Financial Management program, tutoring the subjects of [Introduction to Accounting] and [Financial Mathematics], respectively.
 
-    {{< fa solid handshake-angle >}}&nbsp;Engaged in extension programs, acting as a volunteer in support of the [“Census and Citizenship”] project.
+    {{< fa solid handshake-angle >}}&nbsp;Engaged in university extension programs, acting as a volunteer in support of the [“Census and Citizenship”] project.
 
     {{< fa solid users >}}&nbsp;Invited to be the [coordinator of a new extension program] - “Student - University - Society Integration Program” - due to the outstanding dedication in the previous program.
 
